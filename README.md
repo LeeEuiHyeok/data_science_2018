@@ -39,7 +39,7 @@
 - 2.3.4 나이브 베이즈 분류기 
 - 2.3.5 결정 트리 
 - 2.3.6 결정 트리의 앙상블 
-- [2.3.7 커널 서포트 벡터 머신] (https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.7.ipynb)
+- [2.3.7 커널 서포트 벡터 머신](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.7.ipynb)
 - 2.3.8 신경망(딥러닝) 
 #### 2.4 분류 예측의 불확실성 추정 
 - 2.4.1 결정 함수 
