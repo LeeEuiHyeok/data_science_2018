@@ -33,12 +33,12 @@
 #### 2.2 일반화, 과대적합, 과소적합 
 - 2.2.1 모델 복잡도와 데이터셋 크기의 관계 
 #### 2.3 지도 학습 알고리즘 
-- 2.3.1 예제에 사용할 데이터셋 
-- 2.3.2 k-최근접 이웃 
-- 2.3.3 선형 모델 
-- 2.3.4 나이브 베이즈 분류기 
-- 2.3.5 결정 트리 
-- 2.3.6 결정 트리의 앙상블 
+- [2.3.1 예제에 사용할 데이터셋](http://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.1.ipynb)
+- [2.3.2 k-최근접 이웃](http://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.2.ipynb)
+- [2.3.3 선형 모델](http://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.3.ipynb)
+- [2.3.4 나이브 베이즈 분류기](http://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.4.ipynb)
+- [2.3.5 결정 트리](http://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.5.ipynb)
+- [2.3.6 결정 트리의 앙상블](http://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.6.ipynb)
 - [2.3.7 커널 서포트 벡터 머신](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.7.ipynb)
 - 2.3.8 신경망(딥러닝) 
 #### 2.4 분류 예측의 불확실성 추정 
