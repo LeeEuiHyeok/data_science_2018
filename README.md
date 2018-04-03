@@ -40,12 +40,12 @@
 - [2.3.5 결정 트리](http://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.5.ipynb)
 - [2.3.6 결정 트리의 앙상블](http://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.6.ipynb)
 - [2.3.7 커널 서포트 벡터 머신](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.7.ipynb)
-- 2.3.8 신경망(딥러닝) 
+- [2.3.8 신경망(딥러닝)](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.3.8.ipynb)
 #### 2.4 분류 예측의 불확실성 추정 
-- 2.4.1 결정 함수 
-- 2.4.2 예측 확률 
-- 2.4.3 다중 분류에서의 불확실성 
-- 2.5 요약 및 정리 
+- [2.4.1 결정 함수](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.4.1.ipynb)
+- [2.4.2 예측 확률](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.4.2.ipynb) 
+- [2.4.3 다중 분류에서의 불확실성](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.4.3.ipynb)
+- [2.5 요약 및 정리](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter02/2.5.ipynb)
 
 <br/>
 
