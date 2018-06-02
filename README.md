@@ -97,11 +97,11 @@
 - 5.2.2 매개변수 과대적합과 검증 세트 
 - 5.2.3 교차 검증을 사용한 그리드 서치 
 #### 5.3 평가 지표와 측정 
-- 5.3.1 최종 목표를 기억하라 
-- 5.3.2 이진 분류의 평가 지표 
-- 5.3.3 다중 분류의 평가 지표 
-- 5.3.4 회귀의 평가 지표 
-- 5.3.5 모델 선택에서 평가 지표 사용하기 
+- [5.3.1 최종 목표를 기억하라](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.3.1.ipynb)
+- [5.3.2 이진 분류의 평가 지표](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.3.1.ipynb)
+- [5.3.3 다중 분류의 평가 지표](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.3.3.ipynb)
+- [5.3.4 회귀의 평가 지표](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.3.4.ipynb)
+- [5.3.5 모델 선택에서 평가 지표 사용하기](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.3.5.ipynb)
 #### 5.4 요약 및 정리 
 
 <br/>
