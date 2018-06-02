@@ -89,13 +89,13 @@
 
 ### CHAPTER 5 모델 평가와 성능 향상 
 #### 5.1 교차 검증 
-- 5.1.1 scikit-learn의 교차 검증 
-- 5.1.2 교차 검증의 장점 
-- 5.1.3 계층별 k-겹 교차 검증과 그외 전략들 
+- [5.1.1 scikit-learn의 교차 검증](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.1.1.ipynb)
+- [5.1.2 교차 검증의 장점](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.1.2.ipynb)
+- [5.1.3 계층별 k-겹 교차 검증과 그외 전략들](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.1.3.ipynb)
 #### 5.2 그리드 서치 
-- 5.2.1 간단한 그리드 서치 
-- 5.2.2 매개변수 과대적합과 검증 세트 
-- 5.2.3 교차 검증을 사용한 그리드 서치 
+- [5.2.1 간단한 그리드 서치](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.2.1.ipynb)
+- [5.2.2 매개변수 과대적합과 검증 세트](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.2.2.ipynb)
+- [5.2.3 교차 검증을 사용한 그리드 서치](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.2.3.ipynb)
 #### 5.3 평가 지표와 측정 
 - [5.3.1 최종 목표를 기억하라](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.3.1.ipynb)
 - [5.3.2 이진 분류의 평가 지표](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter05/5.3.1.ipynb)
