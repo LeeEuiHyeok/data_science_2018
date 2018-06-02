@@ -107,14 +107,14 @@
 <br/>
 
 ### CHAPTER 6 알고리즘 체인과 파이프라인 
-#### 6.1 데이터 전처리와 매개변수 선택 
-#### 6.2 파이프라인 구축하기 
-#### 6.3 그리드 서치에 파이프라인 적용하기 
+#### [6.1 데이터 전처리와 매개변수 선택](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter06/6.1.ipynb)
+#### [6.2 파이프라인 구축하기](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter06/6.2.ipynb)
+#### [6.3 그리드 서치에 파이프라인 적용하기](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter06/6.3.ipynb)
 #### 6.4 파이프라인 인터페이스 
-- 6.4.1 make- pipleline을 사용한 파이프라인 생성 
-- 6.4.2 단계 속성에 접근하기 
-- 6.4.3 그리드 서치 안의 파이프라인 속성에 접근하기 
-#### 6.5 전처리와 모델의 매개변수를 위한 그리드 서치 
+- [6.4.1 make- pipleline을 사용한 파이프라인 생성](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter06/6.4.1.ipynb)
+- [6.4.2 단계 속성에 접근하기](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter06/6.4.2.ipynb)
+- [6.4.3 그리드 서치 안의 파이프라인 속성에 접근하기](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter06/6.4.3.ipynb)
+#### [6.5 전처리와 모델의 매개변수를 위한 그리드 서치](https://nbviewer.jupyter.org/github/LeeEuiHyeok/data_science_2018/blob/master/Chapter06/6.5.ipynb)
 #### 6.7 요약 및 정리 
 
 <br/>
